@@ -320,6 +320,10 @@ p {
 
 }
 
+ .more-project-section {
+    padding-right: 7em;
+ }
+
 /* Footer Styling */
 
 .footer {
@@ -351,6 +355,6 @@ p {
 .footer-divider {
     width: 100%;
     height: 5em;
-    margin-top: -55px;;
+    margin-top: -55px;
     margin-bottom: -10px;
 }
